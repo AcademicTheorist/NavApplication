@@ -84,9 +84,3 @@ button:hover{
     width: 150px;
     float: right;
 }
- .navbar p{
-    color: white;
-    font-size: 25px;
-    margin-left: -750px;
-    line-height: 30px;
-}
